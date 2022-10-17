@@ -1,0 +1,3 @@
+,max_rows,Actual Rows,batch_size,total_tokens,distinct_tokens,steps_per_epoch,Baseline Categorical Accuracy,Categorical Accuracy,Baseline Categorical Crossentropy,Categorical Crossentropy,Baseline Top K Categorical Accuracy,Top K Categorical Accuracy,Model
+0,15000,15000,4096,289777,22581,23,0.051,0.818,7.368,0.690,0.154,0.952,LSTM
+0,15000,15000,4096,289777,22581,23,0.054,0.813,7.298,0.695,0.152,0.953,Embed LSTM
